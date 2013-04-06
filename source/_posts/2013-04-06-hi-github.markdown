@@ -7,3 +7,5 @@ categories: sayhi
 ---
 
 Hi github, this is our first date.
+
+Git for fun.

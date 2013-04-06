@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Hi github"
+date: 2013-04-06 09:25
+comments: true
+categories: sayhi
+---
+
+Hi github, this is our first date.

@@ -4,7 +4,7 @@
   <title><![CDATA[Chronicle of a curious mind]]></title>
   <link href="http://yanky80.github.com/atom.xml" rel="self"/>
   <link href="http://yanky80.github.com/"/>
-  <updated>2013-04-06T10:33:07+00:00</updated>
+  <updated>2013-04-06T10:47:51+00:00</updated>
   <id>http://yanky80.github.com/</id>
   <author>
     <name><![CDATA[Yanky]]></name>
@@ -19,6 +19,8 @@
     <updated>2013-04-06T09:25:00+00:00</updated>
     <id>http://yanky80.github.com/blog/2013/04/06/hi-github</id>
     <content type="html"><![CDATA[<p>Hi github, this is our first date.</p>
+
+<p>Git for fun.</p>
 ]]></content>
   </entry>
   

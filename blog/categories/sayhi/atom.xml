@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: sayhi | Chronicle of a curious mind]]></title>
+  <link href="http://yanky80.github.com/blog/categories/sayhi/atom.xml" rel="self"/>
+  <link href="http://yanky80.github.com/"/>
+  <updated>2013-04-06T10:33:07+00:00</updated>
+  <id>http://yanky80.github.com/</id>
+  <author>
+    <name><![CDATA[Yanky]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hi github]]></title>
+    <link href="http://yanky80.github.com/blog/2013/04/06/hi-github/"/>
+    <updated>2013-04-06T09:25:00+00:00</updated>
+    <id>http://yanky80.github.com/blog/2013/04/06/hi-github</id>
+    <content type="html"><![CDATA[<p>Hi github, this is our first date.</p>
+]]></content>
+  </entry>
+  
+</feed>
